@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.3.6",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-gen",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Kumar",
+  "license": "ISC",
+  "description": "Generate QR Code from URL",
+  "devDependencies": {},
+  "keywords": [
+    "qr"
+  ]
+}
