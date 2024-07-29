@@ -17,7 +17,7 @@ This is a simple Node.js application that prompts the user for a URL and generat
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/qr-code-generator.git
+    git clone https://github.com/mhtkr/QR-Code-Generator.git
     cd qr-code-generator
     ```
 
